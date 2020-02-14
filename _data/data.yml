@@ -24,7 +24,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    # languages:
+     languages:
       - idiom: 
         level: 
 
@@ -35,14 +35,14 @@ sidebar:
         level: 
 
     # interests:
-      - item: 
-        link:
+     # - item: 
+      #  link:
 
-      - item: 
-        link:
+      #- item: 
+      #  link:
 
-      - item: 
-        link:
+      #- item: 
+      #  link:
 
 career-profile:
     title: Career Profile
@@ -85,28 +85,15 @@ experiences:
           -Meticulously chalked out weekly lesson plans, evaluations, and assessments to 
           80 undergrad students per semester in varied mechatronics subjects. Boosted the 
           overall exam evaluation to 97th percentile.
+           - Bullet point
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2008 - 2013
+      company: Infosys Technologies Limited, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Improved the performance of the ETL by 15% by writing optimized 
+          stored procs in SQL for 3+ million records flowing per week for a retail store.
+          - Interacted with clients and lead a team of 4 to identify problems and design, build solutions.
+
 projects:
     title: Projects
     intro: >
