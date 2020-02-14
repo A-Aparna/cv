@@ -24,17 +24,17 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
+    # languages:
       - idiom: 
         level: 
 
-      - idiom: French
-        level: Professional
+      - idiom: 
+        level: 
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
-    interests:
+    # interests:
       - item: 
         link:
 
@@ -73,21 +73,18 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+    - role: Assistant Professor 
+      time: 2013 - 2018
+      company: Manipal Institute of Technology, Manipal, India
+      details: |	
+          - Rolled out state-of-art lab for navigating an autonomous mobile robot running 
+          on AI algorithms such as Tree Classifier, Greedy search and A* algorithm. 
+          This lead to an increase in the course intake to 45 students from 25 students.
+          - Brainstormed innovative projects in the field of Mechatronics, by leading at 
+          least 10 groups, 80% of them scored more than 80% in their undergrad thesis.
+          -Meticulously chalked out weekly lesson plans, evaluations, and assessments to 
+          80 undergrad students per semester in varied mechatronics subjects. Boosted the 
+          overall exam evaluation to 97th percentile.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
