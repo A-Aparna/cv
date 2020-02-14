@@ -24,15 +24,15 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-     languages:
-      - idiom: 
-        level: 
+     #languages:
+      #- idiom: 
+       # level: 
 
-      - idiom: 
-        level: 
+     # - idiom: 
+      #  level: 
 
-      - idiom: 
-        level: 
+      #- idiom: 
+       # level: 
 
     # interests:
      # - item: 
@@ -82,10 +82,9 @@ experiences:
           This lead to an increase in the course intake to 45 students from 25 students.
           - Brainstormed innovative projects in the field of Mechatronics, by leading at 
           least 10 groups, 80% of them scored more than 80% in their undergrad thesis.
-          -Meticulously chalked out weekly lesson plans, evaluations, and assessments to 
+           - Meticulously chalked out weekly lesson plans, evaluations, and assessments to 
           80 undergrad students per semester in varied mechatronics subjects. Boosted the 
           overall exam evaluation to 97th percentile.
-           - Bullet point
     - role: Senior Software Engineer
       time: 2008 - 2013
       company: Infosys Technologies Limited, India
