@@ -24,8 +24,8 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-     #languages:
-      #- idiom: 
+     Skills:
+      - Python: 
        # level: 
 
      # - idiom: 
@@ -115,7 +115,7 @@ publications:
         authors: Aparna ; P. Navin K ; S. M. Kulkarni
         conference: 2018 3rd International Conference on Control and Robotics Engineering (ICCRE)
 
-skills:
+#skills:
     title: Skills &amp; Proficiency
 
     toolset:
