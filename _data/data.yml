@@ -24,7 +24,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-     Languages:
+     Language:
       - idiom: Python
         #level: 1
 
@@ -45,7 +45,7 @@ sidebar:
       #  link:
 
 career-profile:
-    title: Career Profile
+    title: Career Profiles
     summary: |
         Bootstrapping Data Scientist with 8+ years of programming experience with strong
         analytical aptitude and a flair to give meaning to the data. Readily adaptable to 
