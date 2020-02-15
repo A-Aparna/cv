@@ -118,8 +118,8 @@ publications:
 #skills:
     #title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python
+    #toolset:
+      #- name: Python
         #level: 90%
 
       - name: Javascript & jQuery
