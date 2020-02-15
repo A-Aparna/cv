@@ -24,9 +24,9 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-     Language:
-      - idiom: Python
-        level: 1
+    languages:
+      - idiom: English
+        level: Native
 
      # - idiom: 
       #  level: 
