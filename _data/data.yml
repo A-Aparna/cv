@@ -4,7 +4,7 @@
 
 sidebar:
     # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Aparna A
@@ -24,9 +24,9 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-     #Skills:
-      #- Python: 
-       # level: 
+     Skills:
+      - idiom: Python
+        #level: 1
 
      # - idiom: 
       #  level: 
@@ -115,8 +115,8 @@ publications:
         authors: Aparna ; P. Navin K ; S. M. Kulkarni
         conference: 2018 3rd International Conference on Control and Robotics Engineering (ICCRE)
 
-skills:
-    title: Skills &amp; Proficiency
+#skills:
+    #title: Skills &amp; Proficiency
 
     toolset:
       - name: Python
