@@ -34,7 +34,7 @@ sidebar:
       - idiom: Python Libraries &#58;Pandas, NumPy, Scikit-learn, NLTK, Keras, TensorFlow, BeautifulSoup
         level: Native
         
-      - idiom: Data Visualization #- Matplotlib, plotly, Seaborn
+      - idiom: Data Visualization - Matplotlib, plotly, Seaborn
         level: Native
       
       - idiom: Database &#58; SQL(Oracle),NoSQL(MongoDB)
@@ -46,9 +46,9 @@ sidebar:
       - idiom: Deployment related &#58; Flask, AWS, Heroku 
         level: Native
 
-     #interests:
-     # - item: Agile Methodology
-      #  link:
+     interests:
+     - item: Agile Methodology
+       link:
 
       #- item: Project Management
       #  link:
