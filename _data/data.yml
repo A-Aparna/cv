@@ -46,9 +46,9 @@ sidebar:
       - idiom: Deployment related &#58; Flask, AWS, Heroku 
         level: Native
 
-     interests:
-     - item: Agile Methodology
-       link:
+    interests:
+      - item: Agile Methodology
+        link:
 
       #- item: Project Management
       #  link:
