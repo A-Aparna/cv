@@ -76,6 +76,24 @@ education:
       time: 2004 - 2008
       details: |
 
+projects:
+    title: Projects
+    intro: >
+
+    assignments:
+      - title: Censoring the News for kids from News Website
+        link: "https://newsheadline-censoring.herokuapp.com/"
+        tagline: "End to End sentiment analysis in NLP to classify if a news headline is suitable for a child"
+
+      - title: Restaurant Recommendation in Toronto
+        link: "http://ec2-3-16-154-147.us-east-2.compute.amazonaws.com:8080/"
+        tagline: "Recommending a restaurant in Toronto based on the cuisine of interest and the cost."
+
+      - title: Please Don’t Overfit
+        link: "#"
+        tagline: "Predict binary output without over fitting for training data that has only 250 examples with 300 features"
+
+
 experiences:
     - role: Assistant Professor 
       time: 2013 - 2018
@@ -96,23 +114,6 @@ experiences:
           - Improved the performance of the ETL by 15% by writing optimized 
           stored procs in SQL for 3+ million records flowing per week for a retail store.
           - Interacted with clients and lead a team of 4 to identify problems and design, build solutions.
-
-projects:
-    title: Projects
-    intro: >
-
-    assignments:
-      - title: Censoring the News for kids from News Website
-        link: "https://newsheadline-censoring.herokuapp.com/"
-        tagline: "End to End sentiment analysis in NLP to classify if a news headline is suitable for a child"
-
-      - title: Restaurant Recommendation in Toronto
-        link: "http://ec2-3-16-154-147.us-east-2.compute.amazonaws.com:8080/"
-        tagline: "Recommending a restaurant in Toronto based on the cuisine of interest and the cost."
-
-      - title: Please Don’t Overfit
-        link: "#"
-        tagline: "Predict binary output without over fitting for training data that has only 250 examples with 300 features"
 
 
 publications:
