@@ -25,31 +25,31 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     Skills:
-      - idiom: Machine Learning- Supervised, Unsupervised and Deep Learning
+      #- idiom: Machine Learning- Supervised, Unsupervised and Deep Learning
 
-      - idiom: Programming &#58; Python, Matlab, C
+      #- idiom: Programming &#58; Python, Matlab, C
 
-      - idiom: Python Libraries &#58;Pandas, NumPy, Scikit-learn, NLTK, Keras, TensorFlow, BeautifulSoup
+      #- idiom: Python Libraries &#58;Pandas, NumPy, Scikit-learn, NLTK, Keras, TensorFlow, BeautifulSoup
       
-      - idiom: Data Visualization- Matplotlib, plotly, Seaborn
+      - idiom: Data Visualization #- Matplotlib, plotly, Seaborn
       
       - idiom: Database &#58; SQL(Oracle),NoSQL(MongoDB)
       
-      - idiom: Math-(Linear Algebra, Probability) and Statistics (Descriptive Stats)
+      #- idiom: Math-(Linear Algebra, Probability) and Statistics (Descriptive Stats)
       
-      - idiom: Deployment related &#58; Flask, AWS, Heroku 
+      #- idiom: Deployment related &#58; Flask, AWS, Heroku 
 
      interests:
-      - item: Agile Methodology
+      #- item: Agile Methodology
       #  link:
 
-      - item: Project Management
+      #- item: Project Management
       #  link:
 
-      - item: Trello, Git, PowerPoint
+      #- item: Trello, Git, PowerPoint
       #  link:
       
-      - item: Verbal and Written communication
+      #- item: Verbal and Written communication
 
 career-profile:
     title: Career Profile
