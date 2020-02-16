@@ -25,7 +25,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     Skills:
-      #- idiom: Machine Learning- Supervised, Unsupervised and Deep Learning
+      - idiom: Machine Learning- Supervised, Unsupervised and Deep Learning
 
       #- idiom: Programming &#58; Python, Matlab, C
 
