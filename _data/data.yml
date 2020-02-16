@@ -25,14 +25,19 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     Skills:
-      - idiom: English
-        level: Native
+      - idiom: Machine Learning- Supervised, Unsupervised and Deep Learning
 
-     # - idiom: 
-      #  level: 
+      - idiom: Programming: Python, Matlab, C
 
-      #- idiom: 
-       # level: 
+      - idiom: Python Libraries :Pandas, NumPy, Scikit-learn, NLTK, Keras, TensorFlow, BeautifulSoup
+      
+      - idiom: Data Visualization- Matplotlib, plotly, Seaborn
+      
+      - idiom: Database: SQL(Oracle),NoSQL(MongoDB)
+      
+      - idiom: Math-(Linear Algebra, Probability) and Statistics (Descriptive Stats)
+      
+      - idiom: Deployment related: Flask, AWS, Heroku 
 
     # interests:
      # - item: 
