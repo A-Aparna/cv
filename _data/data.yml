@@ -50,13 +50,14 @@ sidebar:
       - item: Agile Methodology
         link:
 
-      #- item: Project Management
-      #  link:
+      - item: Project Management
+        link:
 
-      #- item: Trello, Git, PowerPoint
-      #  link:
+      - item: Trello, Git, PowerPoint
+        link:
       
-      #- item: Verbal and Written communication
+      - item: Verbal and Written communication
+        link:
 
 career-profile:
     title: Career Profile
