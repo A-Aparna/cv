@@ -25,21 +25,26 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Machine Learning
+      - idiom: Machine Learning- Supervised, Unsupervised and Deep Learning
         level: Native
 
       - idiom: Programming &#58; Python, Matlab, C
         level: Native
 
-      #- idiom: Python Libraries &#58;Pandas, NumPy, Scikit-learn, NLTK, Keras, TensorFlow, BeautifulSoup
+      - idiom: Python Libraries &#58;Pandas, NumPy, Scikit-learn, NLTK, Keras, TensorFlow, BeautifulSoup
+        level: Native
+        
+      - idiom: Data Visualization #- Matplotlib, plotly, Seaborn
+        level: Native
       
-     # - idiom: Data Visualization #- Matplotlib, plotly, Seaborn
+      - idiom: Database &#58; SQL(Oracle),NoSQL(MongoDB)
+        level: Native
       
-     # - idiom: Database &#58; SQL(Oracle),NoSQL(MongoDB)
+      - idiom: Math-(Linear Algebra, Probability) and Statistics (Descriptive Stats)
+        level: Native
       
-      #- idiom: Math-(Linear Algebra, Probability) and Statistics (Descriptive Stats)
-      
-      #- idiom: Deployment related &#58; Flask, AWS, Heroku 
+      - idiom: Deployment related &#58; Flask, AWS, Heroku 
+        level: Native
 
      #interests:
      # - item: Agile Methodology
