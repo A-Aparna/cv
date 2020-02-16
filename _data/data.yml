@@ -24,7 +24,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    Skills:
+    #Skills:
       #- idiom: Machine
 
       #- idiom: Programming &#58; Python, Matlab, C
