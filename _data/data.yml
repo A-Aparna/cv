@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Aparna A
+    name: Aparna Ap
     tagline: ML
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -39,15 +39,17 @@ sidebar:
       
       - idiom: Deployment related: Flask, AWS, Heroku 
 
-    # interests:
-     # - item: 
+     interests:
+      - item: Agile Methodology
       #  link:
 
-      #- item: 
+      - item: Project Management
       #  link:
 
-      #- item: 
+      - item: Trello, Git, PowerPoint
       #  link:
+      
+      - item: Verbal and Written communication
 
 career-profile:
     title: Career Profile
