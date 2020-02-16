@@ -62,7 +62,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Bootstrapping Data Scientist with 8+ years of programming experience with strong
+        <b>Bootstrapping Data Scientist </b>with 8+ years of programming experience with strong
         analytical aptitude and a flair to give meaning to the data.<br> Readily adaptable to 
         new technologies and roles with a growth mindset.
 education:
@@ -70,12 +70,7 @@ education:
       university: National Institute Of Technology Karnataka, India
       time: 2011 - 2013
       details: |
-        
- 
 
-
-          - Bullet point
-          - Bullet point
     - degree: Bachelor of Technology in Mechanical 
       university: S.V.National Institute of Technology , India
       time: 2004 - 2008
