@@ -63,15 +63,15 @@ career-profile:
     title: Career Profile
     summary: |
         <b>Bootstrapping Data Scientist </b>with 8+ years of programming experience with strong
-        <b>analytical aptitude</b> and a flair to give meaning to the data.<br> Readily <b>adaptable</b> to 
+        <b>analytical aptitude</b> and a flair to give meaning to the data.Readily <b>adaptable</b> to 
         <b>new technologies</b> and roles with a <b>growth mindset</b>.
 education:
-    - degree: Master of Technology in Mechatronics
+    - degree: <b>Master of Technology in Mechatronics</b>
       university: National Institute Of Technology Karnataka, India
       time: 2011 - 2013
       details: |
 
-    - degree: Bachelor of Technology in Mechanical 
+    - degree: <b>Bachelor of Technology in Mechanical </b>
       university: S.V.National Institute of Technology , India
       time: 2004 - 2008
       details: |
@@ -83,23 +83,28 @@ projects:
     assignments:
       - title: <b>Restaurant Recommendation in Toronto</b>
         link: "http://ec2-3-16-154-147.us-east-2.compute.amazonaws.com:8080/"
-        tagline: "Recommending a restaurant in Toronto based on the cuisine of interest and the cost."
+        tagline: "Recommending a restaurant in Toronto based on the cuisine of interest and the cost. 
+        Used <b>K-means Clustering</b> for the <b>unsupervised data</b> using Yelp Dataset. Deployed the application 
+        using <b>Flask framework on AWS</b>."
         
       - title: <b>Censoring the News for kids from News Website</b>
         link: "https://newsheadline-censoring.herokuapp.com/"
-        tagline: "End to End sentiment analysis to classify if a news headline is suitable for a child. 
-        Preprocessed the text and Modeled using count vectorization with Linear Regression model with 
-        an accuracy of 76%. Deployed the application using Flask, JavaScript on Heroku environment."
+        tagline: "<b>End to End sentiment analysis</b> to classify if a news headline is suitable for a child. 
+        Preprocessed the text and Modeled using <b>count vectorization with Linear Regression model</b> with 
+        an <b>accuracy of 76%</b>. Deployed the application using <b>Flask, JavaScript on Heroku environment</b>."
 
       - title: <b>NEWS Headline Web Scrapping </b>
-        link: "#"
-        tagline: "Scraped news headlines using BeautifulSoup from various NEWS website to generate a Dataset 
-        (used in ‘Censoring the NEWS for Kids’).Manually labelled data as 0 to un-censor and 1 to censor the
-        headline with a distribution of 60:40.."
+        link: ""
+        tagline: "<b>Scraped NEWS</b> headlines using <b>BeautifulSoup</b> from various NEWS website to generate a Dataset 
+        (used in ‘Censoring the NEWS for Kids’).<b>Manually labelled data as 0 to un-censor and 1 to censor</b> the
+        headline with a distribution of 60:40."
 
       - title: <b>Please Don’t Overfit</b>
-        link: "#"
-        tagline: "Predict binary output without over fitting for training data that has only 250 examples with 300 features"
+        link: ""
+        tagline: "The aim of the project was to predict binary output without over fitting, as the training data
+        had only <b>250 examples with 300 features</b>. Exploited fundamental ML algorithms like<b> SVM, Random Forest, and 
+        Linear Regression</b> for feature extraction to avoid over fitting the data. <b>Lasso regularization</b> on a linear 
+        model fetched the <b>best accuracy of 78.5%</b>."
 
 
 experiences:
