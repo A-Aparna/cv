@@ -28,22 +28,22 @@ sidebar:
       - idiom: <b>Machine Learning</b>&#58; Supervised, Unsupervised and Deep Learning
         level: Native
 
-      - idiom: Programming &#58; Python, Matlab, C
+      - idiom: <b>Programming</b>&#58; Python, Matlab, C
         level: Native
 
-      - idiom: Python Libraries&#58; Pandas, NumPy, Scikit-learn, NLTK, Keras, TensorFlow, BeautifulSoup
+      - idiom: <b>Python Libraries</b>&#58; Pandas, NumPy, Scikit-learn, NLTK, Keras, TensorFlow, BeautifulSoup
         level: Native
         
-      - idiom: Data Visualization&#58; Matplotlib, plotly, Seaborn
+      - idiom: <b>Data Visualization</b>&#58; Matplotlib, plotly, Seaborn
         level: Native
       
-      - idiom: Database &#58; SQL(Oracle),NoSQL(MongoDB)
+      - idiom: <b>Database</b>&#58; SQL(Oracle),NoSQL(MongoDB)
         level: Native
       
-      - idiom: Math and Statistics 
+      - idiom: <b>Math and Statistics </b>
         level: Native
       
-      - idiom: Deployment related &#58; Flask, AWS, Heroku 
+      - idiom: <b>Deployment related</b>&#58; Flask, AWS, Heroku 
         level: Native
 
     interests:
@@ -63,8 +63,8 @@ career-profile:
     title: Career Profile
     summary: |
         <b>Bootstrapping Data Scientist </b>with 8+ years of programming experience with strong
-        analytical aptitude and a flair to give meaning to the data.<br> Readily adaptable to 
-        new technologies and roles with a growth mindset.
+        <b>analytical aptitude</b> and a flair to give meaning to the data.<br> Readily <b>adaptable</b> to 
+        <b>new technologies</b> and roles with a <b>growth mindset</b>.
 education:
     - degree: Master of Technology in Mechatronics
       university: National Institute Of Technology Karnataka, India
@@ -81,15 +81,15 @@ projects:
     intro: >
 
     assignments:
-      - title: Censoring the News for kids from News Website
+      - title: <b>Censoring the News for kids from News Website</b>
         link: "https://newsheadline-censoring.herokuapp.com/"
         tagline: "End to End sentiment analysis in NLP to classify if a news headline is suitable for a child"
 
-      - title: Restaurant Recommendation in Toronto
+      - title: <b>Restaurant Recommendation in Toronto</b>
         link: "http://ec2-3-16-154-147.us-east-2.compute.amazonaws.com:8080/"
         tagline: "Recommending a restaurant in Toronto based on the cuisine of interest and the cost."
 
-      - title: Please Don’t Overfit
+      - title: <b>Please Don’t Overfit</b>
         link: "#"
         tagline: "Predict binary output without over fitting for training data that has only 250 examples with 300 features"
 
