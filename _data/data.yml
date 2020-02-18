@@ -87,20 +87,20 @@ projects:
         Used <b>K-means Clustering</b> for the <b>unsupervised data</b> using Yelp Dataset. Deployed the application 
         using <b>Flask framework on AWS</b>."
         
-      - title: <b>Censoring the News for kids from News Website</b>
+      - title: <b>Censoring the News for Kids from News Website</b>
         link: "https://newsheadline-censoring.herokuapp.com/"
         tagline: "<b>End to End sentiment analysis</b> to classify if a news headline is suitable for a child. 
         Preprocessed the text and Modeled using <b>count vectorization with Linear Regression model</b> with 
         an <b>accuracy of 76%</b>. Deployed the application using <b>Flask, JavaScript on Heroku environment</b>."
 
       - title: <b>NEWS Headline Web Scrapping </b>
-        link: ""
+        link: 
         tagline: "<b>Scraped NEWS</b> headlines using <b>BeautifulSoup</b> from various NEWS website to generate a Dataset 
         (used in ‘Censoring the NEWS for Kids’).<b>Manually labelled data as 0 to un-censor and 1 to censor</b> the
         headline with a distribution of 60:40."
 
       - title: <b>Please Don’t Overfit</b>
-        link: ""
+        link: 
         tagline: "The aim of the project was to predict binary output without over fitting, as the training data
         had only <b>250 examples with 300 features</b>. Exploited fundamental ML algorithms like<b> SVM, Random Forest, and 
         Linear Regression</b> for feature extraction to avoid over fitting the data. <b>Lasso regularization</b> on a linear 
