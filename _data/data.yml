@@ -81,15 +81,21 @@ projects:
     intro: >
 
     assignments:
+      - title: <b>Restaurant Recommendation in Toronto</b>
+        link: "http://ec2-3-16-154-147.us-east-2.compute.amazonaws.com:8080/"
+        tagline: "Recommending a restaurant in Toronto based on the cuisine of interest and the cost."
+        
       - title: <b>Censoring the News for kids from News Website</b>
         link: "https://newsheadline-censoring.herokuapp.com/"
         tagline: "End to End sentiment analysis to classify if a news headline is suitable for a child. 
         Preprocessed the text and Modeled using count vectorization with Linear Regression model with 
         an accuracy of 76%. Deployed the application using Flask, JavaScript on Heroku environment."
 
-      - title: <b>Restaurant Recommendation in Toronto</b>
-        link: "http://ec2-3-16-154-147.us-east-2.compute.amazonaws.com:8080/"
-        tagline: "Recommending a restaurant in Toronto based on the cuisine of interest and the cost."
+      - title: <b>NEWS Headline Web Scrapping </b>
+        link: "#"
+        tagline: "Scraped news headlines using BeautifulSoup from various NEWS website to generate a Dataset 
+        (used in ‘Censoring the NEWS for Kids’).Manually labelled data as 0 to un-censor and 1 to censor the
+        headline with a distribution of 60:40.."
 
       - title: <b>Please Don’t Overfit</b>
         link: "#"
@@ -97,7 +103,7 @@ projects:
 
 
 experiences:
-    - role: Assistant Professor 
+    - role: <b>Assistant Professor</b> 
       time: 2013 - 2018
       company: Manipal Institute of Technology, Manipal, India
       details: |	
@@ -109,7 +115,7 @@ experiences:
            - Meticulously chalked out weekly lesson plans, evaluations, and assessments to 
           80 undergrad students per semester in varied mechatronics subjects. Boosted the 
           overall exam evaluation to 97th percentile.
-    - role: Senior Software Engineer
+    - role: <b>Senior Software Engineer</b>
       time: 2008 - 2013
       company: Infosys Technologies Limited, India
       details: |
@@ -123,7 +129,7 @@ publications:
     intro: |
 
     papers:
-      - title: Modeling of cantilever type piezoelectric polymer actuator
+      - title: <b>Modeling of cantilever type piezoelectric polymer actuator</b>
         link: "https://ieeexplore.ieee.org/document/8376479"
         authors: Aparna ; P. Navin K ; S. M. Kulkarni
         conference: 2018 3rd International Conference on Control and Robotics Engineering (ICCRE)
