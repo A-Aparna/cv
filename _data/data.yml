@@ -81,13 +81,13 @@ projects:
     intro: >
 
     assignments:
-      - title: <b>Restaurant Recommendation in Toronto</b>
+      - title: <b><u>Restaurant Recommendation in Toronto</u></b>
         link: "http://ec2-3-16-154-147.us-east-2.compute.amazonaws.com:8080/"
         tagline: "Recommending a restaurant in Toronto based on the cuisine of interest and the cost. 
         Used <b>K-means Clustering</b> for the <b>unsupervised data</b> using Yelp Dataset. Deployed the application 
         using <b>Flask framework on AWS</b>."
         
-      - title: <b>Censoring the News for Kids from News Website</b>
+      - title: <b><u>Censoring the News for Kids from News Website</u></b>
         link: "https://newsheadline-censoring.herokuapp.com/"
         tagline: "<b>End to End sentiment analysis</b> to classify if a news headline is suitable for a child. 
         Preprocessed the text and Modeled using <b>count vectorization with Linear Regression model</b> with 
